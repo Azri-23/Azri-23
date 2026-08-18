@@ -1,7 +1,8 @@
-# Hi, I'm Azri
+# Hey there! 👋
 
 ### Who Am I
-Part-time student pursuing a Diploma in Software Engineering. Focused on Python, backend logic, and database-driven apps.
+I'm Azri, a part-time student pursuing a Diploma in Software Engineering. 
+Focused on Python, backend logic, and database-driven apps.
 
 ### What I'm Currently Working On
 - Productivity Tracker — desktop focus-tracking app (Python, CustomTkinter, SQLite)
