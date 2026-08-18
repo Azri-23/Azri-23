@@ -13,8 +13,7 @@ Part-time student pursuing a Diploma in Software Engineering. Focused on Python,
 Python · SQLite · MySQL · Pandas · Tkinter · Git
 
 ### How to Reach Me
-- Email: your.email@example.com
-- LinkedIn: linkedin.com/in/YOUR_LINKEDIN
+- Email: azri4579@gmail.com
 
 ### Fun Fact
 - I like coffee & tea
